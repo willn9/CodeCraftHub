@@ -1,0 +1,29 @@
+{
+  "name": "coecrafthub",
+  "version": "1.0.0",
+  "description": "Code Learning Experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_cch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willn9/CodeCraftHub.git"
+  },
+  "keywords": [
+    "code",
+    "learning"
+  ],
+  "author": "waelnawara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willn9/CodeCraftHub/issues"
+  },
+  "homepage": "https://github.com/willn9/CodeCraftHub#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.2"
+  }
+}
